@@ -34,9 +34,12 @@ idf.py build
 ```
 
 ## Hardware Requirements
-- ESP32-DEVKITC-32E or ESP32-WROOM-32 module
-- SSD1306 OLED Display
-- Push buttons (for control)
+- ESP32 Development Board: 0.96" ESP32 ESP-32D WIFI Bluetooth Development Board OLED CH340C Module Type-C
+- SSD1306 OLED Display (integrated on the board)
+- Push buttons:
+  - Red button: GPIO 12
+  - Green button: GPIO 13
+  - Boot button: GPIO 0 (Select button)
 - Optional: Battery pack for portable operation
 
 ## License
