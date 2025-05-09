@@ -42,6 +42,15 @@ idf.py build
   - Boot button: GPIO 0 (Select button)
 - Optional: Battery pack for portable operation
 
+![ESP32 OLED Board](doc/images/esp32oled.webp)
+*ESP32 Development Board with OLED Display*
+
+![Hardware Setup](doc/images/soucastky_8b.png)
+*Hardware components and connections*
+
+![UI Configuration](doc/images/ui-config.png)
+*Web interface configuration*
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
@@ -49,6 +58,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Original project by [@risinek](https://github.com/risinek)
 - Original repository: [esp32-wifi-penetration-tool](https://github.com/risinek/esp32-wifi-penetration-tool)
 - Modified by [@ralfs66](https://github.com/ralfs66)
+- Visit [smartbox.lv/v2](https://smartbox.lv/v2)
+- Follow [Instagram](https://instagram.com/smartbox.lv)
 
 ## Disclaimer
 This project demonstrates vulnerabilities of Wi-Fi networks and its underlying 802.11 standard and how ESP32 platform can be utilized to attack on those vulnerable spots. Use responsibly against networks you have permission to attack on.
